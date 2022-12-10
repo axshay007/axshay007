@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 
-- 🔭 I’m currently working on **Your AI therapist**
+- 🔭 I’m currently working on **Your AI therapist** project
 
 - 🌱 I’m currently learning **ML,DL,NLP & OpenCV**
 
