@@ -30,3 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axshay007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="axshay007" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axshay007&show_icons=true&locale=en&theme=tokyonight" alt="axshay007" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axshay007&&&theme=tokyonight" " alt="axshay007" /></p>
+
+## Snake eating my contribution graph
+
+![snake gif](https://github.com/axshay007/axshay007/blob/output/github-contribution-grid-snake.gif)
