@@ -31,6 +31,10 @@
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=axshay007&theme=tokyonight" />
 </p>
 
+### ✍️Just a random dev quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+---
+
 ## Snake eating my contribution graph
 
 ![snake gif](https://github.com/axshay007/axshay007/blob/output/github-contribution-grid-snake.gif)
