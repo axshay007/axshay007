@@ -14,7 +14,13 @@
 
 - 📫 How to reach me **pratapakshay096@gmail.com, akshayprsingh2003@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+                                                   
+- A learner, Focused on self-development to gain more knowledge, skills, and experiences.
+  Machine Learning student interested in working on different set of problems.
+  I am pursuing my B.Tech degree  from KIET Group of Institutions, Ghaziabad.
+
+- In the last few months, I have learned about Machine Learning and made basic projects on the same. 
+  I like to interact with people who are enthusiastic and want to explore, share and grow. I also like to work with people who have interest in the ML field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
