@@ -19,7 +19,8 @@
   skills, and experiences.
   Machine Learning student interested in working on different 
   set of problems.
-  I am pursuing my B.Tech degree  from KIET Group of Institutions, Ghaziabad.
+- I am pursuing my B.Tech
+  degree  from KIET Group of Institutions, Ghaziabad.
 
 - In the last few months, I have learned about Machine Learning and made basic projects on the same. 
   I like to interact with people who are enthusiastic and want to explore, share and grow. I also like to work with people who have interest in the ML field.
