@@ -15,8 +15,10 @@
 - 📫 How to reach me **pratapakshay096@gmail.com, akshayprsingh2003@gmail.com**
 
                                                    
-- A learner, Focused on self-development to gain more knowledge, skills, and experiences.
-  Machine Learning student interested in working on different set of problems.
+- A learner, Focused on self-development to gain more knowledge, 
+  skills, and experiences.
+  Machine Learning student interested in working on different 
+  set of problems.
   I am pursuing my B.Tech degree  from KIET Group of Institutions, Ghaziabad.
 
 - In the last few months, I have learned about Machine Learning and made basic projects on the same. 
