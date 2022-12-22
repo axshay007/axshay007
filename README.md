@@ -1,5 +1,5 @@
-[![MasterHead](https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif)](https://axshay007.io)
-
+[![MasterHead](https://thumbs.gfycat.com/BouncyGleefulFeline-max-1mb.gif)](https://axshay007.io)<h1 align="center">
+ 
 
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
 <h3 align="center">A passionate engineering student from India</h3>
@@ -26,7 +26,12 @@
 
 - In the last few months, I have learned about Machine Learning and made basic projects on the same. 
   I like to interact with people who are enthusiastic and want to explore, share and grow. I also like to work with people who have interest in the ML field.
-
+  
+  
+### ✍️Just a random dev quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+ 
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-pratap-singh-973461197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-pratap-singh-973461197/" height="30" width="40" /></a>
@@ -43,8 +48,7 @@
 </p>
 
 
-### ✍️Just a random dev quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 ---
 <!--
 ## Snake eating my contribution graph
