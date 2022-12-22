@@ -1,4 +1,6 @@
-![logo](https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif)
+[![MasterHead](https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
