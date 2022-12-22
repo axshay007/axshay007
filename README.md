@@ -27,9 +27,6 @@
 - In the last few months, I have learned about Machine Learning and made basic projects on the same. 
   I like to interact with people who are enthusiastic and want to explore, share and grow. I also like to work with people who have interest in the ML field.
   
-  
-### ✍️Just a random dev quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
  
     
 <h3 align="left">Connect with me:</h3>
@@ -47,7 +44,8 @@
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=axshay007&theme=tokyonight" />
 </p>
 
-
+### ✍️Just a random dev quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 <!--
