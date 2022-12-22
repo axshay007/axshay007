@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif)](https://axshay007.io)
 
 
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
