@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/BouncyGleefulFeline-max-1mb.gif)](https://axshay007.io)<h1 align="center">
+   [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*2G4GdnBQW5bcjJx4rSuZxg.gif)](https://axshay007.io)
  
 
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
