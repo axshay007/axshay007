@@ -1,4 +1,4 @@
-   [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*2G4GdnBQW5bcjJx4rSuZxg.gif)](https://axshay007.io)
+  [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*2G4GdnBQW5bcjJx4rSuZxg.gif)](https://axshay007.io)
  
 
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
