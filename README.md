@@ -2,9 +2,6 @@
 
 
 
-
-
-
     
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
 <h3 align="center">A passionate engineering student from India</h3>
